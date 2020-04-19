@@ -10,12 +10,12 @@ find([H|_],H).
 find([_|T],E):-find(T,E).
 
 count([],_,K,K):-!.
-count([H|T],H,K,K1):-K1 is K+1,count(T,H,K,K1),!.
+count([H|T],H,K,K1):-K2 is K1+1,count(T,H,K,K2),!.
 count([_|T],EL,K,K1):-count(T,EL,K,K1).
 
 new_list([],B,B):-!.
-new_list([H|T],C,B):-find(T,H),count([H|T],H,K,0),(K>3 -> append(C,[H],C1),new_list(T,C1,B);delete_all([H|T],A1,[],H),new_list(A1,C,B)).
-new_list([_|T],C,B):-append(C,T,C1),new_list(C1,C,B).
+new_list([H|T],C,B):-find(T,H),count([H|T],H,K,0),(K>3 -> append(C,[H],C1),new_list(T,C1,B),!;delete_all([H|T],A1,[],H),new_list(A1,C,B),!).
+new_list([_|T],C,B):-new_list(T,C,B).
 
 ind2:-read(N),read_list(A,N),new_list(A,[],B),write(B).
 
