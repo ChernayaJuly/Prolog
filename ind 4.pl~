@@ -32,7 +32,7 @@ ind4:-People=[_,_,_],
                      list(People,[bela,buchgalter,bekeshchab]));
                      (list(People,[aladar,aptekar,asod]),
                      list(People,[bela,buchgalter,budapesht]))),
- write(People),nl.
+ write(People),nl,!.
 
 
 
