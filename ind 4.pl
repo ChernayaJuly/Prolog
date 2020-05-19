@@ -15,7 +15,6 @@ ind4:-People=[_,_,_],
 
                     not(list(People,[balash,aptekar,_])),
                     not(list(People,[balash,_,budapesht])),
-                    list(People,[_,aptekar,budapesht]),
 
                     ((list(People,[aladar,agronom,asod]),
                       list(People,[bela,buchgalter,budapesht]));
