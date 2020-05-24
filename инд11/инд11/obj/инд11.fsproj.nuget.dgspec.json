@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\инд11\\инд11\\инд11.fsproj": {}
+    "C:\\Users\\User\\Documents\\репозиторий\\Prolog\\инд11\\инд11\\инд11.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\инд11\\инд11\\инд11.fsproj": {
+    "C:\\Users\\User\\Documents\\репозиторий\\Prolog\\инд11\\инд11\\инд11.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\инд11\\инд11\\инд11.fsproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\репозиторий\\Prolog\\инд11\\инд11\\инд11.fsproj",
         "projectName": "инд11",
-        "projectPath": "C:\\Users\\User\\source\\repos\\инд11\\инд11\\инд11.fsproj",
+        "projectPath": "C:\\Users\\User\\Documents\\репозиторий\\Prolog\\инд11\\инд11\\инд11.fsproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\инд11\\инд11\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\репозиторий\\Prolog\\инд11\\инд11\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
