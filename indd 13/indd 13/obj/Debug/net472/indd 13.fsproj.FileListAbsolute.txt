@@ -1,0 +1,23 @@
+C:\Users\User\source\repos\indd 13\indd 13\bin\Debug\net472\indd 13.exe.config
+C:\Users\User\source\repos\indd 13\indd 13\bin\Debug\net472\indd 13.exe
+C:\Users\User\source\repos\indd 13\indd 13\bin\Debug\net472\indd 13.pdb
+C:\Users\User\source\repos\indd 13\indd 13\bin\Debug\net472\FSharp.Core.dll
+C:\Users\User\source\repos\indd 13\indd 13\bin\Debug\net472\cs\FSharp.Core.resources.dll
+C:\Users\User\source\repos\indd 13\indd 13\bin\Debug\net472\de\FSharp.Core.resources.dll
+C:\Users\User\source\repos\indd 13\indd 13\bin\Debug\net472\es\FSharp.Core.resources.dll
+C:\Users\User\source\repos\indd 13\indd 13\bin\Debug\net472\fr\FSharp.Core.resources.dll
+C:\Users\User\source\repos\indd 13\indd 13\bin\Debug\net472\it\FSharp.Core.resources.dll
+C:\Users\User\source\repos\indd 13\indd 13\bin\Debug\net472\ja\FSharp.Core.resources.dll
+C:\Users\User\source\repos\indd 13\indd 13\bin\Debug\net472\ko\FSharp.Core.resources.dll
+C:\Users\User\source\repos\indd 13\indd 13\bin\Debug\net472\pl\FSharp.Core.resources.dll
+C:\Users\User\source\repos\indd 13\indd 13\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+C:\Users\User\source\repos\indd 13\indd 13\bin\Debug\net472\ru\FSharp.Core.resources.dll
+C:\Users\User\source\repos\indd 13\indd 13\bin\Debug\net472\tr\FSharp.Core.resources.dll
+C:\Users\User\source\repos\indd 13\indd 13\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+C:\Users\User\source\repos\indd 13\indd 13\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+C:\Users\User\source\repos\indd 13\indd 13\obj\Debug\net472\indd 13.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\indd 13\indd 13\obj\Debug\net472\indd 13.AssemblyInfo.fs
+C:\Users\User\source\repos\indd 13\indd 13\obj\Debug\net472\indd 13.fsproj.CopyComplete
+C:\Users\User\source\repos\indd 13\indd 13\obj\Debug\net472\indd 13.exe
+C:\Users\User\source\repos\indd 13\indd 13\obj\Debug\net472\indd 13.pdb
+C:\Users\User\source\repos\indd 13\indd 13\obj\Debug\net472\indd 13.fsprojAssemblyReference.cache
