@@ -26,5 +26,5 @@ let iz9 n m =
 
 [<EntryPoint>]
 let main argv =
-    iz9 3 3 |> ignore
+    iz9 5 5 |> ignore
     0 // return an integer exit code

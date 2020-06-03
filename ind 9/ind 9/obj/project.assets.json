@@ -113,11 +113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ind 9\\ind 9\\ind 9.fsproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\репозиторий\\Prolog\\ind 9\\ind 9\\ind 9.fsproj",
       "projectName": "ind 9",
-      "projectPath": "C:\\Users\\User\\source\\repos\\ind 9\\ind 9\\ind 9.fsproj",
+      "projectPath": "C:\\Users\\User\\Documents\\репозиторий\\Prolog\\ind 9\\ind 9\\ind 9.fsproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\ind 9\\ind 9\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\репозиторий\\Prolog\\ind 9\\ind 9\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
