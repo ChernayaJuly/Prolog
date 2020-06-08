@@ -1,3 +1,11 @@
+
+%Пишет загруженный текст из файлика в консольку
+writeText([]).
+writeText([H|T]) :-
+	write_str(H), nl,
+	writeText(T).
+
+
 %Объединяет массив строк в один текст
 appendText(Lines, AppendText) :-
 	appendText_(Lines, [], AppendText).
