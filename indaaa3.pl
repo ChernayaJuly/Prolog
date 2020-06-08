@@ -78,7 +78,7 @@ read_list_str(Cur_list,List,0):-
 
 
 %считываем входные данные
-vegenere(FilePath, Result) :-
+vegenere(FilePath) :-
 	see(FilePath),
 	read_list_str(Lines),
 	seen,
@@ -98,9 +98,6 @@ vegenere(FilePath, Result) :-
 vegenereCode(Text, Key, CodedText) :-
 	listLen(Text, TextLen),
 	vegenereCode(Text, Key, [], CodedText), !.
-
-vegenereCode([], Key, CodedText, Out) :-
-	Out = CodedText, !.
 
 vegenereCode([TextH|TextT], [KeyH|KeyT], CodedText, Out) :-
 	97 =< TextH, %TextH от a до z

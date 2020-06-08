@@ -1,11 +1,3 @@
-
-%Пишет загруженный текст из файлика в консольку
-writeText([]).
-writeText([H|T]) :-
-	write_str(H), nl,
-	writeText(T).
-
-
 %Объединяет массив строк в один текст
 appendText(Lines, AppendText) :-
 	appendText_(Lines, [], AppendText).
@@ -106,9 +98,6 @@ vegenere(FilePath, Result) :-
 vegenereCode(Text, Key, CodedText) :-
 	listLen(Text, TextLen),
 	vegenereCode(Text, Key, [], CodedText), !.
-
-vegenereCode([], Key, CodedText, Out) :-
-	Out = CodedText, !.
 
 vegenereCode([TextH|TextT], [KeyH|KeyT], CodedText, Out) :-
 	97 =< TextH, %TextH от a до z
